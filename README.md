@@ -5,4 +5,4 @@ some description!
 watch tutorial on Youtube.
 
 ### Local development
-1.open index.html in pout browser.
+1.open index.html in your browser.
